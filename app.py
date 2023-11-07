@@ -2,12 +2,10 @@ import pandas as pd
 import numpy as np
 import os
 import librosa
-import sounddevice as sd
 import streamlit as st
 import warnings
 from keras import models
 from audio_recorder_streamlit import audio_recorder
-import soundfile as sf
 warnings.filterwarnings('ignore')
 
 emotions = ['Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprised']
