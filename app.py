@@ -213,8 +213,8 @@ elif page == "Visualisation":
         ### Neutral
         """
     )
-    st.image('Images/Neutral waveform.png', use_column_width=True)
-    st.image('Images/Neutral Spectogram.png', use_column_width=True)
+    st.image('Images/nw.png', use_column_width=True)
+    st.image('Images/ns.png', use_column_width=True)
     st.markdown(
         """
         ---
