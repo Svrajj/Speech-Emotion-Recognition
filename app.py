@@ -176,8 +176,8 @@ elif page == "Visualisation":
 
         """
     )
-    st.image('Images/Angry waveform.png', use_column_width=True)
-    st.image('Images/Angry Spectogram.png', use_column_width=True)
+    st.image('Images/aw.png', use_column_width=True)
+    st.image('Images/as.png', use_column_width=True)
 
     st.markdown(
         """
@@ -186,8 +186,8 @@ elif page == "Visualisation":
         ### Disgust
         """
     )
-    st.image('Images/disgust waveform.png', use_column_width=True)
-    st.image('Images/disgust Spectogram.png', use_column_width=True)
+    st.image('Images/dw.png', use_column_width=True)
+    st.image('Images/ds.png', use_column_width=True)
     st.markdown(
         """
         ---
@@ -195,8 +195,8 @@ elif page == "Visualisation":
         ### Fear
         """
     )
-    st.image('Images/Fear waveform.png', use_column_width=True)
-    st.image('Images/fear Spectogram.png', use_column_width=True)
+    st.image('Images/fw.png', use_column_width=True)
+    st.image('Images/fs.png', use_column_width=True)
     st.markdown(
         """
         ---
@@ -204,8 +204,8 @@ elif page == "Visualisation":
         ### Happy
         """
     )
-    st.image('Images/Happy waveform.png', use_column_width=True)
-    st.image('Images/Happy Spectogram.png', use_column_width=True)
+    st.image('Images/hw.png', use_column_width=True)
+    st.image('Images/hs.png', use_column_width=True)
     st.markdown(
         """
         ---
@@ -222,8 +222,8 @@ elif page == "Visualisation":
         ### Sad
         """
     )
-    st.image('Images/Sad waveform.png', use_column_width=True)
-    st.image('Images/sad Spectogram.png', use_column_width=True)
+    st.image('Images/sdw.png', use_column_width=True)
+    st.image('Images/sds.png', use_column_width=True)
     st.markdown(
         """
         ---
@@ -231,8 +231,8 @@ elif page == "Visualisation":
         ### Surprised
         """
     )
-    st.image('Images/Surprised waveform.png', use_column_width=True)
-    st.image('Images/Surprised Spectogram.png', use_column_width=True)
+    st.image('Images/suw.png', use_column_width=True)
+    st.image('Images/sus.png', use_column_width=True)
 
     
 
