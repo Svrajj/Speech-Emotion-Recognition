@@ -3,6 +3,7 @@ pandas
 numpy
 librosa
 tensorflow
+sounddevice
 audio_recorder_streamlit
 soundfile
 transformers
