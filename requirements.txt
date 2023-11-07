@@ -11,3 +11,4 @@ soundfile
 transformers
 IPython
 sounddevice
+portaudio
