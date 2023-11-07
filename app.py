@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 import librosa
-import librosa.display
 import sounddevice as sd
 import streamlit as st
 import warnings
