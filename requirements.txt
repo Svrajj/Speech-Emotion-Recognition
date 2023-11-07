@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+librosa
+tensorflow
+audio_recorder_streamlit
+soundfile
+torch
+torchaudio
+transformers
+IPython
+git+https://github.com/huggingface/datasets.git
+git+https://github.com/huggingface/transformers.git
