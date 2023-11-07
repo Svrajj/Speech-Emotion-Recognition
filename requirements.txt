@@ -9,5 +9,3 @@ torch
 torchaudio
 transformers
 IPython
-git+https://github.com/huggingface/datasets.git
-git+https://github.com/huggingface/transformers.git
