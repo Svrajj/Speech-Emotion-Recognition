@@ -31,7 +31,10 @@ if page == "Home":
 
         # Speech Emotion Recognition using LSTM
 
-        By Suraj Pradeepkumar
+        By<br>
+        Suraj Pradeepkumar <br>
+        Ragul K<br>
+        Ragul S<br>
 
         [github](github.com/Svrajj), [linkedin](https://www.linkedin.com/in/svraj/)
 
