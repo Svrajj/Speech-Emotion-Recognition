@@ -31,10 +31,16 @@ if page == "Home":
 
         # Speech Emotion Recognition using LSTM
 
-        By<br>
-        Suraj Pradeepkumar <br>
-        Ragul K<br>
-        Ragul S<br>
+        """
+    )
+    st.markdown("""By""")
+    st.markdown("""Suraj Pradeepkumar""")
+    st.markdown("""Ragul K""")
+    st.markdown("""Ragul S""")
+        
+    st.markdown("""
+        
+        
 
         [github](github.com/Svrajj), [linkedin](https://www.linkedin.com/in/svraj/)
 
