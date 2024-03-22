@@ -267,7 +267,7 @@ elif page == "Feature Extraction":
 
         """
     )
-    st.image('Images/Surprised Spectogram.png', use_column_width=True)
+    st.image('Images/sus.png', use_column_width=True)
     st.markdown(
         """
         * Apply log to the Mel filterbanks
